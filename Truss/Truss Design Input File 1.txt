@@ -1,4 +1,3 @@
-
 # Examle TRUSS - for MAE 3403 Spring 2018 - Homework 9
 # https://www.mathalino.com/reviewer/engineering-mechanics/problem-407-warren-truss-method-joints
 
@@ -36,4 +35,3 @@ link,  top,   B,       D
 link,  5,     C,       D
 link,  6,     C,       Right
 link,  7,     D,       Right
-
